@@ -26,7 +26,7 @@ This repository contains two Python programs that can read news from different s
 3. Run either `English_NewsReader.py` (for the English News Reader) or `Hindi_NewsReader.py` (for the Hindi News Reader) using Python: `python English_NewsReader.py` or `python Hindi_NewsReader.py`
 5. Enjoy listening to the latest news articles!
 
-## Contributions
+### Contributions
 Contributions to this repo are welcome. If you find a bug or have a suggestion for improvement, please open an issue on the repository. If you would like to make changes to the code, feel free to submit a pull request.
 
 ### Acknowledgments
