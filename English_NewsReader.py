@@ -1,5 +1,3 @@
-# Exercise_9 - Akhbaar padh ke sunao
-#isme json and request module lgega
 from win32com.client import Dispatch
 import requests
 import json
